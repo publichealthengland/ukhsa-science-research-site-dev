@@ -3,7 +3,7 @@ title: "Non-tuberculous Mycobacteria and Climate Change"
 date: 2024-09-01T14:00:00Z
 draft: false
 type: "spotlight"
-thumbnail: "NMR-text.jpg"
+thumbnail: "Resize-NTM.banner.jpg"
 alt: "Mycrobacterium-Avium-Respiratory-Infection."
 description: "Non-tuberculous mycobacteria  are, environmental pathogens that cause infections with a high health burden. They are in the same bacteria family that cause tuberculosis but are themselves not a cause of tuberculosis.  Non-tuberculous are resistant to conventional water treatment methods, such as chlorine, and a range of antibiotics. Researchers from the Global Assessment and Emerging Hazards team at UKHSA explored international meteorological and incidence data to identify environmental conditions driving increasing infections internationally. They used machine learning models to forecast how Non-tuberculous mycobacteria infections might increase in the UK in the next 10 years, based on climate change projections."
 excerpt: "Non-tuberculous mycobacteria  are, environmental pathogens that cause infections with a high health burden. They are in the same bacteria family that cause tuberculosis but are themselves not a cause of tuberculosis.  Non-tuberculous are resistant to conventional water treatment methods, such as chlorine, and a range of antibiotics. Researchers from the Global Assessment and Emerging Hazards team at UKHSA explored international meteorological and incidence data to identify environmental conditions driving increasing infections internationally. They used machine learning models to forecast how Non-tuberculous mycobacteria infections might increase in the UK in the next 10 years, based on climate change projections."
