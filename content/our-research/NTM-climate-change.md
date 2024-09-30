@@ -11,7 +11,7 @@ excerpt: "Non-tuberculous mycobacteria  are, environmental pathogens that cause 
 buttonText: "Learn more on Non-tuberculous Mycobacteria and Climate Change"
 ---
 
-{{< spotlight-feature title="Forecasting Non-tuberculous Mycobacteria infections in the UK"image="NTM-banner.jpg" alt="Non-tuberculous Mycrobacteria Infection" caption="(Image source: Lukas-Pexels.com)" >}}
+{{< spotlight-feature title="Non-tuberculous Mycobacteria and Climate Change"image="NTM-banner.jpg" alt="Non-tuberculous Mycrobacteria Infection" caption="(Image source: Lukas-Pexels.com)" >}}
 
 <p>Non-tuberculous mycobacteria are, environmental pathogens that cause infections with a high health burden. They are in the same bacteria family that cause tuberculosis but are themselves not a cause of the disease. Non-tuberculous mycobacteria are resistant to conventional water treatment methods, such as chlorine, and a range of antibiotics. Researchers from the Global Assessment and Emerging Hazards team at UKHSA explored international meteorological and incidence data to identify environmental conditions driving increasing infections internationally. They used machine learning models to forecast how Non-tuberculous mycobacteria infections might increase in the UK in the next 10 years, based on climate change projections.</p> 
 
@@ -22,7 +22,7 @@ buttonText: "Learn more on Non-tuberculous Mycobacteria and Climate Change"
 <p><a style="color:white;" href="https://researchportal.ukhsa.gov.uk/en/persons/paul-omahoney"> Author: Paul O&#39;Mahoney UKHSA Research Profile </a></p>
 {{< /spotlight-feature >}}
 
-{{< spotlight-content title="Sunlight and the Impact on Blood Pressure" image="sunlight-bp.jpg" alt="sunlight-cardio" caption="Blood pressure monitoring (Image source: Thirdman-Pexels.com)" >}}
+{{< spotlight-content title="Forecasting Non-tuberculous Mycrobacteria Infections in the UK" image="sunlight-bp.jpg" alt="sunlight-cardio" caption="Blood pressure monitoring (Image source: Thirdman-Pexels.com)" >}}
 
 <p>Research led by the Global Assessment and Emerging Hazards Team, within All Hazards Intelligence Directorate, utilised incidence and meteorological data from countries where non-tuberculous mycobacteria infections are notifiable. These associations were applied to climate projections in relation to temperature and precipitation UK Met Office for the UK within a machine learning model. The model predicts non-tuberculous mycobacterial infections in the next 10 years will increase by 33.8% since the last reported surveillance data in 2012. They found evidence relating to environmental reservoirs for non-tuberculous mycobacteria across the UK could increase by 6.2% from 2024 to 2033. While the highest non-tuberculous mycobacteria infection rates will occur at lower latitudes, the results predict that the largest regional increases are likely to be in North East England, Northern Ireland and East Scotland. The model predicts that the forecasted impacts of climate change in the UK, namely increased temperature and precipitation, will lead to increases in non-tuberculous mycobacteria infection rates.</p>
 
