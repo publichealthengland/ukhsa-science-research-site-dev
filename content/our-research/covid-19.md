@@ -3,7 +3,7 @@ title: "COVID-19"
 date: 2021-03-26T12:15:53Z
 draft: false
 type: "spotlight"
-thumbnail: "covid-19.jpg"
+thumbnail: "covid-19-thumb.jpg"
 alt: "Covid-19."
 description: "UKHSA has contributed to the generation of knowledge and evidence of SARS-CoV-2 through research in a wide variety of topics from characterisation of the virus to behavioural aspects of the response. Each month we will highlight a key study led or co-led by UKHSA's researchers."
 excerpt: "UKHSA has contributed to the generation of knowledge and evidence of SARS-CoV-2 through research in a wide variety of topics from characterisation of the virus to behavioural aspects of the response..."
