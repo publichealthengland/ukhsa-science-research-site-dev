@@ -28,7 +28,7 @@ buttonText: "Learn more on Non-tuberculous Mycobacteria and Climate Change"
 
 
 <h3 class="red d-none d-lg-block">Further Reading:</h3>
-<p><a href="https://www.sciencedirect.com/science/article/pii/S1470211824000046?via%3Dihub" target="_blank">Extrapulmonary nontuberculous mycobacterial infections: a guide for the general physician <i>in vitro</i> Authors- Malhotra,A,M et.al. (2024).</a></p>
+<p><a href="https://www.sciencedirect.com/science/article/pii/S1470211824000046?via%3Dihub" target="_blank">Extrapulmonary nontuberculous mycobacterial infections: a guide for the general physician. Authors- Malhotra,A,M et.al. (2024).</a></p>
 <p><a href="https://www.nature.com/articles/s41598-022-13399-4" target="_blank">Post-exposure persistence of nitric oxide up regulation in skin cells irradiated by UV-A, Authors- Hazell, Khazova Cohen, Felton and Raj (2022).</a><p>
 <p><a href="https://www.nature.com/articles/s41598-017-11567-5" target="_blank" >Ultraviolet radiation - induced production of nitric oxide: a multi-cell and multi-donor analysis, Authors - Holliman, Lowe, Cohen, Felton and Raj (2017).</a><p>
 <p><a href=">https://crth.hpru.nihr.ac.uk/" target="_blank"></a></p>
