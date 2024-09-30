@@ -3,7 +3,7 @@ title: "Antimicrobial Resistance"
 date: 2024-03-08T09:24:00Z
 draft: false
 type: "spotlight"
-thumbnail: "amr.jpg"
+thumbnail: "amr-thumb.jpg"
 alt: "Antimicrobial Resistance (AMR) New research at UKHSA focussed on developing new and exciting therapies against multi-drug resistance"
 description: "Antimicrobial Resistance (AMR) refers to the ability of infectious microbes to develop resistance to the drugs used to treat them, making our current range of treatments increasingly ineffective. Research at UK Health Security Agency (UKHSA) is focussed on discovering and developing new therapies against these multidrug-resistant pathogens."
 excerpt: "Antimicrobial Resistance (AMR) refers to the ability of infectious microbes to develop resistance to the drugs used to treat them, making our current range of treatments increasingly ineffective. Research at UK Health Security Agency (UKHSA) is focussed on discovering and developing new therapies against these multidrug-resistant pathogens."
