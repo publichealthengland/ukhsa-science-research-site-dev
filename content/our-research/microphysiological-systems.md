@@ -3,7 +3,7 @@ title: "Microphysiological Systems for Infectious Disease Modelling"
 date: 2023-11-21T09:09:00Z
 draft: false
 type: "spotlight"
-thumbnail: "microphysiologicalsystems.jpg"
+thumbnail: "microphysiologicalsystems-thumb.jpg"
 alt: "microphysiological systems."
 description: "Microphysiological systems (MPS) are experimental platforms that utilise human or animal cells grown in three-dimensions in specific microenvironments that aim to mimic the structure and function of tissues and organs in the laboratory. We are developing models of infection using MPS to help reduce our reliance on animal models."
 excerpt: "Microphysiological systems (MPS) are experimental platforms that utilise human or animal cells grown in three-dimensions in specific microenvironments that aim to mimic the structure and function..."
