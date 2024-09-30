@@ -11,7 +11,7 @@ excerpt: "Non-tuberculous mycobacteria  are, environmental pathogens that cause 
 buttonText: "Learn more on Non-tuberculous Mycobacteria and Climate Change"
 ---
 
-{{< spotlight-feature title="Forecasting Non-tuberculous Mycobacteria infections in the UK"image="sunlight.jpg" alt="sunlight" caption="(Image source: Lukas-Pexels.com)" >}}
+{{< spotlight-feature title="Forecasting Non-tuberculous Mycobacteria infections in the UK"image="NTM-banner.jpg" alt="Non-tuberculous Mycrobacteria Infection" caption="(Image source: Lukas-Pexels.com)" >}}
 
 <p>Non-tuberculous mycobacteria are, environmental pathogens that cause infections with a high health burden. They are in the same bacteria family that cause tuberculosis but are themselves not a cause of the disease. Non-tuberculous mycobacteria are resistant to conventional water treatment methods, such as chlorine, and a range of antibiotics. Researchers from the Global Assessment and Emerging Hazards team at UKHSA explored international meteorological and incidence data to identify environmental conditions driving increasing infections internationally. They used machine learning models to forecast how Non-tuberculous mycobacteria infections might increase in the UK in the next 10 years, based on climate change projections.</p> 
 
