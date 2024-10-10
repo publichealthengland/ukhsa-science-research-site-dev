@@ -26,7 +26,7 @@ caption= "Mycocaterium Avium (Image: Science Photo Library-Pixels.com)" >}}
 
 
 <h3 class="red d-none d-lg-block">Further Reading:</h3>
-<p><a href="hhttps://researchportal.ukhsa.gov.uk/en/publications/extrapulmonary-nontuberculous-mycobacterial-infections-a-guide-fo" target="_blank">Extrapulmonary nontuberculous mycobacterial infections: a guide for the general physician,  Authors- Malhotra et al (2024).</a></p>
+<p><a href="https://researchportal.ukhsa.gov.uk/en/publications/extrapulmonary-nontuberculous-mycobacterial-infections-a-guide-fo" target="_blank">Extrapulmonary nontuberculous mycobacterial infections: a guide for the general physician,  Authors- Malhotra et al (2024).</a></p>
 <p><a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9879710/" target="_blank">Changing Incidence and Characteristics of Nontuberculous Mycobacterial Infections in Scotland and Comparison With Mycobacterium tuberculosis Complex Incidence (2011-2019)  Authors- Jarchow-MacDonald,Smieth, Seagar, Russell, Claxton, Laurenson and Moncayo-Nieto (2022).</a><p>
 
 {{< /spotlight-content >}}
