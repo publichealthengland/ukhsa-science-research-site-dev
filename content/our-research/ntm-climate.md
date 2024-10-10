@@ -26,8 +26,7 @@ caption= "Mycocaterium Avium (Image: Science Photo Library-Pixels.com)" >}}
 
 
 <h3 class="red d-none d-lg-block">Further Reading:</h3>
-<p><a href="https://researchportal.ukhsa.gov.uk/en/publications/low-dose-daylight-exposure-induces-nitric-oxide-release-and-maint" target="_blank">Low-dose daylight exposure induces nitric oxide release and maintains cell viability <i>in vitro</i> Authors- Hazell, Khazova and O'Mahoney (2023).</a></p>
-<p><a href="https://www.nature.com/articles/s41598-022-13399-4" target="_blank">Post-exposure persistence of nitric oxide up regulation in skin cells irradiated by UV-A, Authors- Hazell, Khazova Cohen, Felton and Raj (2022).</a><p>
-<p><a href="https://www.nature.com/articles/s41598-017-11567-5" target="_blank" >Ultraviolet radiation - induced production of nitric oxide: a multi-cell and multi-donor analysis, Authors - Holliman, Lowe, Cohen, Felton and Raj (2017).</a><p>
-<p><a href=">https://crth.hpru.nihr.ac.uk/" target="_blank"></a></p>
+<p><a href="hhttps://researchportal.ukhsa.gov.uk/en/publications/extrapulmonary-nontuberculous-mycobacterial-infections-a-guide-fo" target="_blank">Extrapulmonary nontuberculous mycobacterial infections: a guide for the general physician  Authors- Malhotra et al (2024).</a></p>
+<p><a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9879710/" target="_blank">Changing Incidence and Characteristics of Nontuberculous Mycobacterial Infections in Scotland and Comparison With Mycobacterium tuberculosis Complex Incidence (2011-2019)  Authors- Jarchow-MacDonald,Smieth, Seagar, Russell, Claxton, Laurenson and Moncayo-Nieto (2022).</a><p>
+
 {{< /spotlight-content >}}
