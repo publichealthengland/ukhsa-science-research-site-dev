@@ -17,7 +17,7 @@ buttonText: "Learn more on Non&dashTuberculous Mycobacteria (NTM)"
 <p><a style="color:white;" href="https://researchportal.ukhsa.gov.uk/en/persons/paul-omahoney"> Author: Katy Willis UKHSA Research Profile </a></p>
 {{< /spotlight-feature >}}
 
-{{< spotlight-content title="Forecasting Non-tuberculous Mycobacteria Infections in the UK" image="ntm-banner.jpg" alt="Non-tuberculous mycobacteria" 
+{{< spotlight-content title="Forecasting Non-tuberculous Mycobacteria Infections in the UK" image="ntm-uk-map.jpg" alt="Non-tuberculous mycobacteria" 
 caption= "Mycocaterium Avium (Image: Science Photo Library-Pixels.com)" >}}
 
 <p>Non-tuberculous mycobacteria cause lung and skin infections with high mortality rates and antibiotic resistance.  Infections are acquired from environmental exposures, as non-tuberculous mycobacteria reside in water sources and soil. They are found in fresh and brackish waters, as they have a low saline tolerance. Increased levels of non-tuberculous mycobacteria in treated municipal water supplies have been observed during warmer months in Europe and South America. . Non-tuberculous mycobacteria incidences are known to be increasing in countries where they are notifiable but the situation in the UK is difficult to assess as non-tuberculous mycobacterial infections are not a notifiable disease.</p>  
