@@ -10,7 +10,7 @@ excerpt: "Non&dashtuberculous are resistant to conventional water treatment meth
 buttonText: "Learn more on Non&dashTuberculous Mycobacteria (NTM)"
 ---
 
-{{< spotlight-feature title="Non-Tuberculous Mycobacteria and Climate Change" image="ntm-banner.jpg" alt="bacteria" caption="Mycobacterium Avium (Image: Science Photo Library-Pixels.com)" >}}
+{{< spotlight-feature title="Non-Tuberculous Mycobacteria and Climate Change" image="ntm-banner2.jpg" alt="bacteria" caption="Mycobacterium Avium (Image: Science Photo Library-Pixels.com)" >}}
 
 <p>Non-tuberculous mycobacteria  are, environmental pathogens that cause infectios with a high health burden. They are in the same bacteria family that cause tuberculosis, but are themselves not a cause of tuberculosis.  Non-tuberculous are resistant to conventional water treatment methods, such as chlorine, and a range of antibiotics. Researchers from the Global Assessment and Emerging Hazards team at UKHSA explored international meteorological and incidence data to identify environmental conditions driving increasing infections internationally. They used machine learning models to forecast how Non-tuberculous mycobacteria infections might increase in the UK in the next 10 years, based on climate change projections.</p>
 
