@@ -1,5 +1,5 @@
 ---
-title: "Non-tuberculous mycobacteria and climate change"
+title: "Non-tuberculous Mycobacteria and Climate Change"
 date: 2024-10-01T13:30:00Z
 draft: false
 type: "spotlight"
@@ -11,7 +11,7 @@ excerpt: "Non-tuberculous are resistant to conventional water treatment methods,
 buttonText: "Learn more on Non Tuberculous Mycobacteria (NTM)"
 ---
 
-{{< spotlight-feature title="Sunlight and Cardiovascular Disease"image="sunlight.jpg" alt="sunlight" caption="(Image source: Lukas-Pexels.com)" >}}
+{{< spotlight-feature title="Non-Tuberculous Mycobacteria and Climate Change"image="ntm-thumb.jpg" alt="bacteria" caption="(Image source: Science Photo Library Pixels.com)" >}}
 
 <p>Non-tuberculous mycobacteria  are, environmental pathogens that cause infections with a high health burden. They are in the same bacteria family that cause tuberculosis, but are themselves not a cause of tuberculosis.  Non-tuberculous are resistant to conventional water treatment methods, such as chlorine, and a range of antibiotics. Researchers from the Global Assessment and Emerging Hazards team at UKHSA explored international meteorological and incidence data to identify environmental conditions driving increasing infections internationally. They used machine learning models to forecast how Non-tuberculous mycobacteria infections might increase in the UK in the next 10 years, based on climate change projections.</p>
 
