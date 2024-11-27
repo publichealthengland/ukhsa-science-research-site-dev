@@ -20,8 +20,7 @@ buttonText: "Learn more about UKHSA Innovations in Antimicrobial Resistance"
 {{< /spotlight-feature >}}
 
 {{< spotlight-content title="Antimicrobial Resistance and the Burden on Public Health" image="amrbacteriophage.jpg" alt="Antimicrobial resistance" caption="Bacteriophage" >}}
-<p>Antimicrobial Resistance: Open Innovation in Early-Stage Antimicrobial Discovery and Evaluation 2024: <a href="https://themes/phe/static/documents/Open Innovation 2024 update.pdf"
-          target="_blank"</a></p> 
+<p>Antimicrobial Resistance: Open Innovation in Early-Stage Antimicrobial Discovery and Evaluation 2024: <a href="/documents/UKHSA-AMR-Open-Innovation-Factsheets-Nov-2024.pdf" target="_blank"</a></p> 
 
 {{< /spotlight-content >}}
 
