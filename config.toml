@@ -5,11 +5,11 @@ theme = "phe"
 
 [menu]
   [[menu.main]]
-    name = "About research"
+    name = "About Research"
     url = "/about/"
     weight = 1
   [[menu.main]]
-    name = "Our research"
+    name = "Our Research"
     url = "/our-research/"
     identifier = "our-research"
     weight = 2
